@@ -1,10 +1,10 @@
 # Linux server configuration
 
-**Public IP address** : 35.178.235.41
+**Public IP address** : ~~35.178.235.41~~
 
 **SSH port** : 2200
 
-**URL** : [http://ec2-35-178-235-41.eu-west-2.compute.amazonaws.com/](http://ec2-35-178-235-41.eu-west-2.compute.amazonaws.com/)
+**URL** : [~~http://ec2-35-178-235-41.eu-west-2.compute.amazonaws.com/~~](http://ec2-35-178-235-41.eu-west-2.compute.amazonaws.com/)
 
 ## Configurations made:
 
